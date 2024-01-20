@@ -9,6 +9,8 @@
 ###### Ainsi, les données du volume persistent même si le conteneur n'existe plus. 
 
 #### Mise en évidence de données non persistantes
+Etat des lieux avant la création de conteneur
+![image](https://github.com/abiForSofteam/docker/assets/56606441/a10ccc40-e65d-48b4-8b5f-5fd4de6cc0bb)
 
 
 Le pilote de stockage par défaut est overlay2
