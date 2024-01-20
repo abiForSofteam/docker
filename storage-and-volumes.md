@@ -18,7 +18,8 @@ Maintenant, mettons en place un conteneur
 Nous remarquons la présence de données gérées par les pilotes de stockage en l'occurrence **overlay2** 
 
 
-
+Nous allons maintenant supprimer le conteneur mycontainer, et voir si les données sont toujours présentes dans les repertoires 
+###### /var/lib/docker/overlay2/ et /var/lib/docker/overlay2/l
 Le pilote de stockage par défaut est overlay2
 ![image](https://github.com/abiForSofteam/docker/assets/56606441/d2d4fbc3-502f-4033-a1d1-a3d887375609)
 
