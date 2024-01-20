@@ -19,8 +19,5 @@ Nous remarquons la présence de données gérées par le pilote de stockage **ov
 
 Lorsque nous supprimons le conteneur mycontainer, les données inhérentes dans les repertoires /var/lib/docker/overlay2/ et /var/lib/docker/overlay2/l **disparaissent**
 
-
-
-Le pilote de stockage par défaut est overlay2
-![image](https://github.com/abiForSofteam/docker/assets/56606441/d2d4fbc3-502f-4033-a1d1-a3d887375609)
+#### Mise en évidence de données persistantes
 
