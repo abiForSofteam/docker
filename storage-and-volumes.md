@@ -14,6 +14,8 @@ Etat des lieux avant la création de conteneur
 
 Maintenant, mettons en place un conteneur
 ![image](https://github.com/abiForSofteam/docker/assets/56606441/15f35a73-440e-407b-951d-31f6baedeb95)
+![image](https://github.com/abiForSofteam/docker/assets/56606441/0e9e99fd-b175-42fa-9335-99ca21713cd5)
+
 Nous remarquons la présence de données gérées par les pilotes de stockage en l'occurrence **overlay2** 
 
 
